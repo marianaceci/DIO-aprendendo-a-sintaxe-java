@@ -5,7 +5,6 @@ public class Operadores {
 
     
     String concatenacao ="?"; 
-
     concatenacao = 1 + 1 + 1 + "1";
     System.out.print(concatenacao); //31
     
